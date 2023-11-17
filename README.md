@@ -1,5 +1,5 @@
 # Exposure to nitrogen dioxide and fine particulate matter when cooking with electricity compared to gas, a randomized crossover study in Quito, Ecuador
-Repo supporting Gould et al. "CExposure to nitrogen dioxide and fine particulate matter when cooking with electricity compared to gas, a randomized crossover study in Quito, Ecuador" (2023).
+Repo supporting Gould et al. "Exposure to nitrogen dioxide and fine particulate matter when cooking with electricity compared to gas, a randomized crossover study in Quito, Ecuador" (2023) published in Environmental health perspectives.
 
 The materials in this repository enable replication of the main results. 
 
