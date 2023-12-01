@@ -14,8 +14,7 @@ Scripts are data are primarily contained in this respository.
 
 ## List of scripts
 
-- **1_Analyze_Data.R**: conducts regressions and other analyses
-- **2_MakeFigsTables.R**: makes figures and tables
+- **1_Analyze_Data.R**: summarizes data, conducts regressions, makes figure and table
 
 ## List of datasets
 
