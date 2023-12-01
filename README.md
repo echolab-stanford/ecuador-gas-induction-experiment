@@ -15,9 +15,8 @@ Scripts are data are primarily contained in this respository.
 ## List of scripts
 
 - **0_Process_Data.R**: processes raw data (not publicly-available) and generates cleaned time series data (ts_data.rds) and two-day summarized data (summary_48hr.rds)
-- **1_Descriptives.R**: generates descriptive statistics
-- **2_Analyze_Data.R**: conducts regressions and other analyses
-- **3_MakeFigsTables.R**: makes figures and tables
+- **1_Analyze_Data.R**: conducts regressions and other analyses
+- **2_MakeFigsTables.R**: makes figures and tables
 
 ## List of datasets
 
