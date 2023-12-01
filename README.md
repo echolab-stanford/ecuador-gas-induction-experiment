@@ -14,7 +14,6 @@ Scripts are data are primarily contained in this respository.
 
 ## List of scripts
 
-- **0_Process_Data.R**: processes raw data (not publicly-available) and generates cleaned time series data (ts_data.rds) and two-day summarized data (summary_48hr.rds)
 - **1_Analyze_Data.R**: conducts regressions and other analyses
 - **2_MakeFigsTables.R**: makes figures and tables
 
@@ -22,6 +21,7 @@ Scripts are data are primarily contained in this respository.
 
 - **ts_data.rds**: cleaned minute-resolved time series sensor data
 - **summary_48hr.rds**: two-day summarized data
+- **no2_monitor_ecuador.rds**: a crosswalk linking NO2 monitor IDs to deployments
 
 ### R session info
 R version 4.2.2 (2022-10-31)
